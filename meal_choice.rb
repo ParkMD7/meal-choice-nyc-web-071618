@@ -3,5 +3,4 @@
 
 
 def meal_choice(default="meat")
-  meal_choice
 end
